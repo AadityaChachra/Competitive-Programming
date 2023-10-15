@@ -1,0 +1,56 @@
+{
+	// Place your snippets for cpp here. Each snippet is defined under a snippet name and has a prefix, body and 
+	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
+	// same ids are connected.
+	// Example:
+	 "cpp-boilerplate": {
+		"prefix": "cpp",
+	 	"body": [
+			"// ੴ Jai Guruji ॐ",
+			" ",
+			"#include <iostream>",
+			"#include <climits>",
+			"#include <math.h>",
+			"#include <string>",
+			"#include <cstring>", 
+			"#include <set>",
+			"#include <algorithm>",
+			"#include <vector>",
+			"#include <fstream>",
+			"#include <list>",
+			"#include <stack>",
+			"#include <queue>",
+			"#include <unordered_map>",
+			"#include <map>",
+			"#include <set>",
+			"#include <cstdlib>", 
+			"using namespace std;",
+			" ",
+			"#define ll long long int ",
+			"#define vi vector<int>",
+			"#define vll vector<long long int>",
+			"#define vs vector<string>",
+			"#define fr(a,b) for(int i=a;i<b;i++)",
+			"#define frr(i,a,b) for(int i=a;i<b;i++)",
+			"#define mod 1000000007",
+			"#define PI 3.1415926535897932384626",
+			"#define setbits(x) __builtin_popcountll(x)", 
+			"#define zerobits(x) __builtin_ctzll(x) // counts the trailing zeros",
+			"#define ps(x,y) fixed << setprecision(y) << x"
+			"#define inf 1e18",
+			" ",
+			"int main() {\n\tios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);",
+" ",
+			"\tint t;",
+			"\tcin>>t;",
+			"\twhile(t--){",
+			"\t\t$1",
+			"\t}",
+			"\treturn 0;",
+			"}",
+
+	 	],
+	 	"description": "CPP program"
+	 }
+}
