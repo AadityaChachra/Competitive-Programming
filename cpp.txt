@@ -1,0 +1,32 @@
+// ੴ Jai Guruji ॐ
+ 
+#include <bits/stdc++.h>
+using namespace std; 
+ 
+#define fastio() ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
+#define int long long
+#define ll long long int 
+#define vi vector<int>
+#define mod 1000000007
+#define PI 3.1415926535897932384626
+#define setbits(x) __builtin_popcountll(x) // counts the number of 1's
+#define zerobits(x) __builtin_ctzll(x) // counts the trailing zeros
+#define INF 1000000000000000000
+ 
+int32_t main() {
+    fastio();
+    //auto begin = std::chrono::high_resolution_clock::now();
+ 
+    int tt;
+    cin >> tt;
+    while(tt--){
+        
+    }
+ 
+    /*--------------------------------------------X--------------------------------------------*/
+    //auto end = std::chrono::high_resolution_clock::now();
+    //auto elapsed = std::chrono::duration_cast<std::chrono::nanoseconds>(end-begin);
+    //cout << "Time measured: " << setprecision(3) << fixed << (elapsed.count() * 1e-9) << "seconds" << endl;
+ 
+    return 0;
+}
