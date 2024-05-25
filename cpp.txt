@@ -1,7 +1,7 @@
 // ੴ Jai Guruji ॐ
  
 #include <bits/stdc++.h>
-using namespace std; 
+using namespace std;
  
 #define fastio() ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
 #define int long long
@@ -12,10 +12,12 @@ using namespace std;
 #define setbits(x) __builtin_popcountll(x) // counts the number of 1's
 #define zerobits(x) __builtin_ctzll(x) // counts the trailing zeros
 #define INF 1000000000000000000
+#define endl '\n'
  
 int32_t main() {
     fastio();
     //auto begin = std::chrono::high_resolution_clock::now();
+    /*--------------------------------------------X--------------------------------------------*/
  
     int tt;
     cin >> tt;
